@@ -20,8 +20,8 @@ A fully featured **C++17** console library‑management system, developed for NY
 
 ## Dependencies
 
-> **Compiler:** g++ 10 (or clang++ 11) or newer, with `-std=c++17`
-> **External library:** single‑header **nlohmann/json.hpp** — already included in *include/*, so no extra install is required.
+> **Compiler:** g++ 10 (or clang++ 11) or newer, with `-std=c++17`<br>
+> **External library:** single-header **nlohmann/json.hpp** — already included in *include/*, so no extra install is required.
 
 ---
 
