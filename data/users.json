@@ -1,0 +1,272 @@
+[
+      {
+        "passwordHash": "Vx3C9Z5mN1bV7qW8:7a4d82f6e9c15b38",
+        "role": "Reader",
+        "username": "li_dong_ming"
+      },
+      {
+        "passwordHash": "Rt5Y2T9mN6bV3xZ8:3b8e47f2c5d91a64",
+        "role": "Reader",
+        "username": "wang_jing_yi"
+      },
+      {
+        "passwordHash": "Ty1U8I6rE4wQ7pL0:6d9f24c8a1e53b79",
+        "role": "Reader",
+        "username": "zhang_li_ming"
+      },
+      {
+        "passwordHash": "Fg8H1J4kN7mB2vC5:4a7d93f6e2c15b58",
+        "role": "Reader",
+        "username": "liu_xin_yi"
+      },
+      {
+        "passwordHash": "ZhhlDJSrUqXNwcWH:35e7145273fc0c19",
+        "role": "Reader",
+        "username": "wu_jia_ying"
+      },
+      {
+        "passwordHash": "Ew4R6T1yU8iO2pA5:3f8b47c2d5e91a64",
+        "role": "Reader",
+        "username": "chen_xiu_lan"
+      },
+      {
+        "passwordHash": "LgpUkDs4K4wiU8he:18e26076e3084065",
+        "role": "Reader",
+        "username": "a"
+      },
+      {
+        "passwordHash": "Mn1N5P9sA3dF7gH4:8d7f25e1c6b93a52",
+        "role": "Reader",
+        "username": "zhang_hao_ran"
+      },
+      {
+        "passwordHash": "Ik6O9P2sD5gH8jK1:1e4c87f3b9a26d54",
+        "role": "Reader",
+        "username": "zhang_ai_ling"
+      },
+      {
+        "passwordHash": "Ew5Q8W1eR4tY7uI0:7d2a64f9c1e83b56",
+        "role": "Reader",
+        "username": "li_shu_fen"
+      },
+      {
+        "passwordHash": "Hg9J4K7lZ1xC5vB3:1f5a82d9e3c47b66",
+        "role": "Reader",
+        "username": "xu_wei_hao"
+      },
+      {
+        "passwordHash": "AnXh2LznDLRvi2sg:7bcf31d85cd107bf",
+        "role": "Reader",
+        "username": "new_user"
+      },
+      {
+        "passwordHash": "jKq5RRO58jG0WCFH:adb5a8faaf8df380",
+        "role": "Staff",
+        "username": "henrylee"
+      },
+      {
+        "passwordHash": "Uj2K5L8nM1qW4eR7:6f9b42c8a5d73e91",
+        "role": "Reader",
+        "username": "xu_guo_liang"
+      },
+      {
+        "passwordHash": "Kp9mN3QrS7xY2vB4:5f3b24d8e9f12a56",
+        "role": "Reader",
+        "username": "zhang_wei_jun"
+      },
+      {
+        "passwordHash": "Gh7J9K3mB5nV1xZ8:1a9e64f2c7d83b56",
+        "role": "Reader",
+        "username": "liu_jian_wei"
+      },
+      {
+        "passwordHash": "Mx8L5DjZ4pW1kR3t:7c4d89e1a2b35f68",
+        "role": "Reader",
+        "username": "wang_xiao_fang"
+      },
+      {
+        "passwordHash": "45MWesHINSUg5qW5:70e13bffe404240e",
+        "role": "Reader",
+        "username": "zhang_xiao_yu"
+      },
+      {
+        "passwordHash": "Op3D6J8lN4wQ7bT2:9f1e47c2a8d63b54",
+        "role": "Staff",
+        "username": "admin2"
+      },
+      {
+        "passwordHash": "uzCYrBQn0BvhNrUv:c6d116fb62deec44",
+        "role": "Admin",
+        "username": "admin"
+      },
+      {
+        "passwordHash": "ru2M8h2C1M9b86vu:3fcb54d3acbba0e1",
+        "role": "Reader",
+        "username": "caroline"
+      },
+      {
+        "passwordHash": "uZttwg3KdLYykb8a:10cadc751a8005a6",
+        "role": "Reader",
+        "username": "li_zhi_wei"
+      },
+      {
+        "passwordHash": "As3D7S0aQ4wE6rT9:8c1e56f2d9a73b84",
+        "role": "Reader",
+        "username": "wu_zhen_hao"
+      },
+      {
+        "passwordHash": "Ui4F7K1mV9xC2dE8:2d6a49e8f3b15c72",
+        "role": "Reader",
+        "username": "lin_si_yu"
+      },
+      {
+        "passwordHash": "NeitasSz6q9qONhG:5ee41212d3169f12",
+        "role": "Reader",
+        "username": "chen_wei_ming"
+      },
+      {
+        "passwordHash": "Qw6F9G2hJ5kL8pO1:5f3b91e7a4c82d69",
+        "role": "Reader",
+        "username": "huang_mei_yu"
+      },
+      {
+        "passwordHash": "Bn2K5L8oP0aS3dF6:4c7e91f3b6a25d58",
+        "role": "Reader",
+        "username": "liu_ya_qin"
+      },
+      {
+        "passwordHash": "Zx8V5B2nM4cF1gH7:5a6d38e2f9c74b51",
+        "role": "Reader",
+        "username": "huang_yu_chen"
+      },
+      {
+        "passwordHash": "U7tg7mW75J72UmaU:3f543f153d7f18e7",
+        "role": "Staff",
+        "username": "admin1"
+      },
+      {
+        "passwordHash": "RAdoioN49SEaDMsl:783ae436ed50cb9e",
+        "role": "Staff",
+        "username": "xiao_pi"
+      },
+      {
+        "passwordHash": "Mn7B4V1wE8rT2yU5:2d6a85f1c9e47b33",
+        "role": "Reader",
+        "username": "lin_kai_wen"
+      },
+      {
+        "passwordHash": "sL5tsZ9LAMvqlccz:d322aa3dde506750",
+        "role": "Reader",
+        "username": "huang_mei_ling"
+      },
+      {
+        "passwordHash": "Zx1Z4X7cV0bN3mQ6:8f6e32c9a4d71b85",
+        "role": "Staff",
+        "username": "admin3"
+      },
+      {
+        "passwordHash": "osNaq3RnAPDztoGq:93d2e6c7ce3d2bf1",
+        "role": "Reader",
+        "username": "liu_da_wei"
+      },
+      {
+        "passwordHash": "Lk3Z6X9cV8bN1mQ4:9e5c72f4a8d31b65",
+        "role": "Reader",
+        "username": "chen_hui_min"
+      },
+      {
+        "passwordHash": "Op0A4S7dF2gH5jK1:7a2f63e9c1d84b57",
+        "role": "Reader",
+        "username": "li_xiao_gang"
+      },
+      {
+        "passwordHash": "Df2E4R6tY8iO0pL3:6c5a78d1e4f92b39",
+        "role": "Reader",
+        "username": "wu_ya_ting"
+      },
+      {
+        "passwordHash": "9Vb00ak31247yFPq:b5f87109aba1fb2a",
+        "role": "Reader",
+        "username": "ruby"
+      },
+      {
+        "passwordHash": "Jb9lDUoGeWetJ1sa:9c4ac2c011e67653",
+        "role": "Reader",
+        "username": "gao_ming_xuan"
+      },
+      {
+        "passwordHash": "As5Z9X7cF1rY3gH6:4e8b32f7c9a51d86",
+        "role": "Reader",
+        "username": "huang_zhi_ming"
+      },
+      {
+        "passwordHash": "6wtyQ5CFoB7kJs0y:0e1fb5257189f6ec",
+        "role": "Reader",
+        "username": "test"
+      },
+      {
+        "passwordHash": "uoXWUkuYoT2FYten:969b30a33a8a7c00",
+        "role": "Reader",
+        "username": "lin_ya_ting"
+      },
+      {
+        "passwordHash": "Swh7HE1sp6lzjAys:3e5553b787bc9498",
+        "role": "Reader",
+        "username": "xu_yi_chen"
+      },
+      {
+        "passwordHash": "Cv6N9M1qW3eR8tY4:8f2b59c1a7d64e93",
+        "role": "Reader",
+        "username": "wu_shi_jun"
+      },
+      {
+        "passwordHash": "Qr6T2Y8uI0oP4kL7:2b9e56f4a1c38d75",
+        "role": "Reader",
+        "username": "wang_li_na"
+      },
+      {
+        "passwordHash": "Sd9A2S5dF8gH1jK4:5a9c73e6f2d84b17",
+        "role": "Reader",
+        "username": "chen_yong_kang"
+      },
+      {
+        "passwordHash": "Qw7R9T2nM5vX8uP1:3a1f65b8c4d92e37",
+        "role": "Reader",
+        "username": "li_jia_hui"
+      },
+      {
+        "passwordHash": "Yt4R7T0yU3iO6pA9:3b8f51e2c6d94a73",
+        "role": "Reader",
+        "username": "wang_jun_jie"
+      },
+      {
+        "passwordHash": "ypX9yGyXDrIUO2YV:f97604addc93a9b7",
+        "role": "Staff",
+        "username": "william"
+      },
+      {
+        "passwordHash": "Sd7F9H3kL6mN0qW2:9c1e73f8a4d52b86",
+        "role": "Reader",
+        "username": "lin_zi_han"
+      },
+      {
+        "passwordHash": "tgFIS4mvH4qKSdPC:d8eb70035e9eae7a",
+        "role": "Reader",
+        "username": "wang_jun_hao"
+      },
+      {
+        "passwordHash": "NF6ua3td9tuB3qtj:66e0ceb5129123b0",
+        "role": "Reader",
+        "username": "becky"
+      },
+      {
+        "passwordHash": "Jk4L8M2qW6eR5tY9:5f3c91b8e2a47d69",
+        "role": "Reader",
+        "username": "xu_mei_lin"
+      },
+      {
+        "passwordHash": "Yt6G3H8nB2zL9sA5:8b7e23f1d5c48a69",
+        "role": "Reader",
+        "username": "chen_ming_yu"
+      }
+    ]

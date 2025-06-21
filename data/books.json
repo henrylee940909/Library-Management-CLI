@@ -1,0 +1,1702 @@
+[
+      {
+        "author": "王文華",
+        "availableCopies": 5,
+        "categories": [
+          "文學",
+          "小說"
+        ],
+        "id": 1,
+        "isbn": "978-986-123-456-7",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "聯經出版",
+        "synopsis": "笑死超假的書",
+        "title": "台北愛情故事",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "李安琪",
+        "availableCopies": 4,
+        "categories": [
+          "歷史",
+          "台灣史"
+        ],
+        "id": 2,
+        "isbn": "978-986-234-567-8",
+        "language": "繁體中文",
+        "pageCount": 450,
+        "publisher": "玉山社",
+        "synopsis": "深入探討日治時期台灣社會變遷，從政治、經濟到文化各層面的完整紀錄。",
+        "title": "日治時期的台灣社會",
+        "totalCopies": 4,
+        "year": 2022
+      },
+      {
+        "author": "陳志明",
+        "availableCopies": 3,
+        "categories": [
+          "科技",
+          "程式設計"
+        ],
+        "id": 3,
+        "isbn": "978-986-345-678-9",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "碁峰資訊",
+        "synopsis": "從零開始學習Python程式設計，適合初學者的完整教學指南。",
+        "title": "Python程式設計入門",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "林美惠",
+        "availableCopies": 6,
+        "categories": [
+          "料理",
+          "生活"
+        ],
+        "id": 4,
+        "isbn": "978-986-456-789-0",
+        "language": "繁體中文",
+        "pageCount": 200,
+        "publisher": "幸福文化",
+        "synopsis": "收錄50道經典台式家常菜，從夜市小吃到傳統料理的完整製作方法。",
+        "title": "台灣味家常菜",
+        "totalCopies": 6,
+        "year": 2023
+      },
+      {
+        "author": "張育成",
+        "availableCopies": 3,
+        "categories": [
+          "旅遊",
+          "攝影"
+        ],
+        "id": 5,
+        "isbn": "978-986-567-890-1",
+        "language": "繁體中文",
+        "pageCount": 350,
+        "publisher": "墨刻出版",
+        "synopsis": "用鏡頭記錄台灣山林之美，從玉山到太魯閣的攝影紀實。",
+        "title": "台灣山林攝影集",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "劉詩涵",
+        "availableCopies": 5,
+        "categories": [
+          "文學",
+          "散文"
+        ],
+        "id": 6,
+        "isbn": "978-986-678-901-2",
+        "language": "繁體中文",
+        "pageCount": 240,
+        "publisher": "九歌出版",
+        "synopsis": "以細膩的筆觸描寫台灣四季變化，記錄生活中的美好時光。",
+        "title": "四季台灣",
+        "totalCopies": 5,
+        "year": 2022
+      },
+      {
+        "author": "黃建國",
+        "availableCopies": 4,
+        "categories": [
+          "商業",
+          "創業"
+        ],
+        "id": 7,
+        "isbn": "978-986-789-012-3",
+        "language": "繁體中文",
+        "pageCount": 300,
+        "publisher": "天下文化",
+        "synopsis": "分析台灣新創企業成功案例，提供創業者實用的經營策略。",
+        "title": "台灣新創之路",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "吳雅芳",
+        "availableCopies": 2,
+        "categories": [
+          "心理",
+          "自我成長"
+        ],
+        "id": 8,
+        "isbn": "978-986-890-123-4",
+        "language": "繁體中文",
+        "pageCount": 220,
+        "publisher": "方智出版",
+        "synopsis": "探討現代人的心理壓力與調適方法，提供實用的心理健康指南。",
+        "title": "心靈療癒之道",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "許志偉",
+        "availableCopies": 4,
+        "categories": [
+          "教育",
+          "學習方法"
+        ],
+        "id": 9,
+        "isbn": "978-986-901-234-5",
+        "language": "繁體中文",
+        "pageCount": 260,
+        "publisher": "親子天下",
+        "synopsis": "針對台灣教育環境設計的有效學習方法，幫助學生提升學習效率。",
+        "title": "高效學習法",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "蔡佩君",
+        "availableCopies": 2,
+        "categories": [
+          "藝術",
+          "設計"
+        ],
+        "id": 10,
+        "isbn": "978-986-012-345-6",
+        "language": "繁體中文",
+        "pageCount": 180,
+        "publisher": "大塊文化",
+        "synopsis": "介紹台灣傳統工藝與現代設計的融合，展現台灣文創的獨特魅力。",
+        "title": "台灣設計美學",
+        "totalCopies": 3,
+        "year": 2022
+      },
+      {
+        "author": "趙明輝",
+        "availableCopies": 1,
+        "categories": [
+          "健康",
+          "運動"
+        ],
+        "id": 11,
+        "isbn": "978-986-123-456-8",
+        "language": "繁體中文",
+        "pageCount": 290,
+        "publisher": "晨星出版",
+        "synopsis": "專為忙碌上班族設計的健身計畫，每天30分鐘輕鬆維持健康。",
+        "title": "30分鐘健身計畫",
+        "totalCopies": 2,
+        "year": 2024
+      },
+      {
+        "author": "林雅琪",
+        "availableCopies": 6,
+        "categories": [
+          "兒童",
+          "繪本"
+        ],
+        "id": 12,
+        "isbn": "978-986-234-567-9",
+        "language": "繁體中文",
+        "pageCount": 48,
+        "publisher": "小天下",
+        "synopsis": "以可愛的插畫講述台灣黑熊的故事，適合親子共讀的溫馨繪本。",
+        "title": "台灣黑熊的冒險",
+        "totalCopies": 6,
+        "year": 2023
+      },
+      {
+        "author": "鄭文龍",
+        "availableCopies": 2,
+        "categories": [
+          "科學",
+          "環保"
+        ],
+        "id": 13,
+        "isbn": "978-986-345-678-0",
+        "language": "繁體中文",
+        "pageCount": 330,
+        "publisher": "商周出版",
+        "synopsis": "分析台灣面臨的環境挑戰，提出永續發展的可行方案。",
+        "title": "永續台灣",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "何佳玲",
+        "availableCopies": 3,
+        "categories": [
+          "音樂",
+          "傳統藝術"
+        ],
+        "id": 14,
+        "isbn": "978-986-456-789-1",
+        "language": "繁體中文",
+        "pageCount": 210,
+        "publisher": "風和文創",
+        "synopsis": "探索台灣傳統音樂的豐富內涵，從原住民歌謠到民間小調。",
+        "title": "台灣音樂之美",
+        "totalCopies": 4,
+        "year": 2022
+      },
+      {
+        "author": "謝志強",
+        "availableCopies": 1,
+        "categories": [
+          "政治",
+          "社會"
+        ],
+        "id": 15,
+        "isbn": "978-986-567-890-2",
+        "language": "繁體中文",
+        "pageCount": 380,
+        "publisher": "遠流出版",
+        "synopsis": "客觀分析台灣民主發展歷程，探討政治制度的演變與挑戰。",
+        "title": "台灣民主之路",
+        "totalCopies": 2,
+        "year": 2024
+      },
+      {
+        "author": "楊淑芬",
+        "availableCopies": 2,
+        "categories": [
+          "心理",
+          "親子關係"
+        ],
+        "id": 16,
+        "isbn": "978-986-678-901-3",
+        "language": "繁體中文",
+        "pageCount": 250,
+        "publisher": "寶瓶文化",
+        "synopsis": "針對台灣家庭教育現況，提供父母與孩子溝通的實用技巧。",
+        "title": "親子溝通的藝術",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "羅志華",
+        "availableCopies": 3,
+        "categories": [
+          "財經",
+          "投資"
+        ],
+        "id": 17,
+        "isbn": "978-986-789-012-4",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "財信出版",
+        "synopsis": "分析台股投資策略，適合初學者的理財入門指南。",
+        "title": "台股投資入門",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "曾美玲",
+        "availableCopies": 2,
+        "categories": [
+          "文學",
+          "詩集"
+        ],
+        "id": 18,
+        "isbn": "978-986-890-123-5",
+        "language": "繁體中文",
+        "pageCount": 160,
+        "publisher": "秀威資訊",
+        "synopsis": "收錄詩人對台灣土地的深情書寫，表達對家鄉的眷戀之情。",
+        "title": "島嶼詩篇",
+        "totalCopies": 3,
+        "year": 2022
+      },
+      {
+        "author": "石建宏",
+        "availableCopies": 1,
+        "categories": [
+          "科技",
+          "人工智慧"
+        ],
+        "id": 19,
+        "isbn": "978-986-901-234-6",
+        "language": "繁體中文",
+        "pageCount": 400,
+        "publisher": "博碩文化",
+        "synopsis": "探討AI技術在台灣產業的應用現況與未來發展趨勢。",
+        "title": "AI在台灣",
+        "totalCopies": 2,
+        "year": 2024
+      },
+      {
+        "author": "馬雅雯",
+        "availableCopies": 4,
+        "categories": [
+          "旅遊",
+          "文化"
+        ],
+        "id": 20,
+        "isbn": "978-986-012-345-7",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "太雅出版",
+        "synopsis": "深度介紹台灣各地特色小鎮，發掘隱藏版的在地文化景點。",
+        "title": "台灣小鎮漫遊",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "王志華",
+        "availableCopies": 3,
+        "categories": [
+          "科技",
+          "資料科學"
+        ],
+        "id": 21,
+        "isbn": "978-986-123-567-8",
+        "language": "繁體中文",
+        "pageCount": 450,
+        "publisher": "博碩文化",
+        "synopsis": "深入淺出介紹機器學習演算法，搭配Python實作範例。",
+        "title": "機器學習實戰",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "李美玲",
+        "availableCopies": 2,
+        "categories": [
+          "健康",
+          "養生"
+        ],
+        "id": 22,
+        "isbn": "978-986-234-678-9",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "原水文化",
+        "synopsis": "結合中醫理論與現代營養學，打造個人化的養生計畫。",
+        "title": "中醫養生智慧",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "陳建宏",
+        "availableCopies": 6,
+        "categories": [
+          "商業",
+          "管理"
+        ],
+        "id": 23,
+        "isbn": "978-986-345-789-0",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "天下雜誌",
+        "synopsis": "分析數位轉型成功案例，提供企業升級的實用策略。",
+        "title": "數位轉型指南",
+        "totalCopies": 6,
+        "year": 2024
+      },
+      {
+        "author": "張雅婷",
+        "availableCopies": 1,
+        "categories": [
+          "藝術",
+          "繪畫"
+        ],
+        "id": 24,
+        "isbn": "978-986-456-890-1",
+        "language": "繁體中文",
+        "pageCount": 200,
+        "publisher": "藝術家出版",
+        "synopsis": "從基礎技法到創作理念，完整的水彩畫學習指南。",
+        "title": "水彩畫技法大全",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "劉志明",
+        "availableCopies": 4,
+        "categories": [
+          "歷史",
+          "世界史"
+        ],
+        "id": 25,
+        "isbn": "978-986-567-901-2",
+        "language": "繁體中文",
+        "pageCount": 520,
+        "publisher": "聯經出版",
+        "synopsis": "全面解析二十世紀重大歷史事件，理解現代世界的形成。",
+        "title": "20世紀世界史",
+        "totalCopies": 4,
+        "year": 2022
+      },
+      {
+        "author": "黃淑芬",
+        "availableCopies": 3,
+        "categories": [
+          "心理",
+          "人際關係"
+        ],
+        "id": 26,
+        "isbn": "978-986-678-012-3",
+        "language": "繁體中文",
+        "pageCount": 240,
+        "publisher": "心靈工坊",
+        "synopsis": "探討現代人際關係的複雜性，提供建立健康關係的方法。",
+        "title": "人際關係心理學",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "吳建國",
+        "availableCopies": 2,
+        "categories": [
+          "科學",
+          "天文"
+        ],
+        "id": 27,
+        "isbn": "978-986-789-123-4",
+        "language": "繁體中文",
+        "pageCount": 350,
+        "publisher": "貓頭鷹出版",
+        "synopsis": "用淺顯易懂的方式介紹宇宙奧秘，適合天文愛好者。",
+        "title": "宇宙探索之旅",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "林佳慧",
+        "availableCopies": 5,
+        "categories": [
+          "文學",
+          "現代詩"
+        ],
+        "id": 28,
+        "isbn": "978-986-890-234-5",
+        "language": "繁體中文",
+        "pageCount": 180,
+        "publisher": "印刻出版",
+        "synopsis": "收錄新生代詩人的精選作品，展現當代詩歌的多元面貌。",
+        "title": "新世代詩選",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "許志偉",
+        "availableCopies": 1,
+        "categories": [
+          "教育",
+          "語言學習"
+        ],
+        "id": 29,
+        "isbn": "978-986-901-345-6",
+        "language": "繁體中文",
+        "pageCount": 300,
+        "publisher": "眾文圖書",
+        "synopsis": "創新的英語學習方法，幫助學習者突破語言學習瓶頸。",
+        "title": "突破英語學習",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "鄭美玲",
+        "availableCopies": 4,
+        "categories": [
+          "料理",
+          "烘焙"
+        ],
+        "id": 30,
+        "isbn": "978-986-012-456-7",
+        "language": "繁體中文",
+        "pageCount": 220,
+        "publisher": "橘子文化",
+        "synopsis": "從基礎麵包到精緻甜點，完整的烘焙技術教學書。",
+        "title": "烘焙入門指南",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "謝明華",
+        "availableCopies": 2,
+        "categories": [
+          "財經",
+          "理財"
+        ],
+        "id": 31,
+        "isbn": "978-986-123-678-9",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "Smart智富",
+        "synopsis": "系統性介紹個人理財策略，從基礎觀念到投資實務。",
+        "title": "理財規劃全攻略",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "趙雅琪",
+        "availableCopies": 3,
+        "categories": [
+          "教育",
+          "成人教育"
+        ],
+        "id": 32,
+        "isbn": "978-986-234-789-0",
+        "language": "繁體中文",
+        "pageCount": 160,
+        "publisher": "小魯文化",
+        "synopsis": "透過有趣的故事教導孩子品格教育的重要價值。",
+        "title": "品格小故事",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "馬志強",
+        "availableCopies": 1,
+        "categories": [
+          "運動",
+          "登山"
+        ],
+        "id": 33,
+        "isbn": "978-986-345-890-1",
+        "language": "繁體中文",
+        "pageCount": 400,
+        "publisher": "晨星出版",
+        "synopsis": "詳細介紹台灣高山攀登路線，包含安全須知和裝備指南。",
+        "title": "台灣高山攀登指南",
+        "totalCopies": 2,
+        "year": 2024
+      },
+      {
+        "author": "蔡佩君",
+        "availableCopies": 5,
+        "categories": [
+          "旅遊",
+          "國外旅遊"
+        ],
+        "id": 34,
+        "isbn": "978-986-456-901-2",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "太雅出版",
+        "synopsis": "深度探索日本文化與景點，提供實用的旅遊資訊。",
+        "title": "日本深度旅遊",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "何建宏",
+        "availableCopies": 2,
+        "categories": [
+          "科技",
+          "區塊鏈"
+        ],
+        "id": 35,
+        "isbn": "978-986-567-012-3",
+        "language": "繁體中文",
+        "pageCount": 380,
+        "publisher": "碁峰資訊",
+        "synopsis": "全面解析區塊鏈技術原理與應用，適合技術人員參考。",
+        "title": "區塊鏈技術詳解",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "楊淑華",
+        "availableCopies": 4,
+        "categories": [
+          "心理",
+          "壓力管理"
+        ],
+        "id": 36,
+        "isbn": "978-986-678-123-4",
+        "language": "繁體中文",
+        "pageCount": 200,
+        "publisher": "張老師文化",
+        "synopsis": "提供有效的壓力管理技巧，幫助現代人維持心理健康。",
+        "title": "壓力管理實務",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "羅志明",
+        "availableCopies": 3,
+        "categories": [
+          "音樂",
+          "古典音樂"
+        ],
+        "id": 37,
+        "isbn": "978-986-789-234-5",
+        "language": "繁體中文",
+        "pageCount": 260,
+        "publisher": "世界文物出版",
+        "synopsis": "深入淺出介紹古典音樂史，適合音樂愛好者閱讀。",
+        "title": "古典音樂入門",
+        "totalCopies": 5,
+        "year": 2022
+      },
+      {
+        "author": "李雅芳",
+        "availableCopies": 1,
+        "categories": [
+          "健康",
+          "瑜伽"
+        ],
+        "id": 38,
+        "isbn": "978-986-890-345-6",
+        "language": "繁體中文",
+        "pageCount": 180,
+        "publisher": "橡實文化",
+        "synopsis": "結合身心靈的瑜伽練習，適合初學者到進階者。",
+        "title": "瑜伽身心靈",
+        "totalCopies": 2,
+        "year": 2023
+      },
+      {
+        "author": "曾志華",
+        "availableCopies": 6,
+        "categories": [
+          "科學",
+          "生物"
+        ],
+        "id": 39,
+        "isbn": "978-986-901-456-7",
+        "language": "繁體中文",
+        "pageCount": 340,
+        "publisher": "五南出版",
+        "synopsis": "探討生物多樣性的重要性，介紹台灣珍貴的生態系統。",
+        "title": "台灣生態之美",
+        "totalCopies": 6,
+        "year": 2024
+      },
+      {
+        "author": "石美惠",
+        "availableCopies": 2,
+        "categories": [
+          "文學",
+          "傳記"
+        ],
+        "id": 40,
+        "isbn": "978-986-012-567-8",
+        "language": "繁體中文",
+        "pageCount": 420,
+        "publisher": "時報出版",
+        "synopsis": "記錄台灣女性先驅者的奮鬥歷程，展現女性力量。",
+        "title": "台灣女性先驅傳",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "黃志偉",
+        "availableCopies": 4,
+        "categories": [
+          "商業",
+          "電商"
+        ],
+        "id": 41,
+        "isbn": "978-986-123-789-0",
+        "language": "繁體中文",
+        "pageCount": 300,
+        "publisher": "商周出版",
+        "synopsis": "分析電商經營策略，從品牌建立到行銷推廣的完整指南。",
+        "title": "電商經營策略",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "王淑玲",
+        "availableCopies": 3,
+        "categories": [
+          "藝術",
+          "攝影"
+        ],
+        "id": 42,
+        "isbn": "978-986-234-890-1",
+        "language": "繁體中文",
+        "pageCount": 250,
+        "publisher": "大家出版",
+        "synopsis": "從構圖到後製，完整的數位攝影技術教學。",
+        "title": "數位攝影技巧",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "陳雅婷",
+        "availableCopies": 1,
+        "categories": [
+          "教育",
+          "幼兒教育"
+        ],
+        "id": 43,
+        "isbn": "978-986-345-901-2",
+        "language": "繁體中文",
+        "pageCount": 220,
+        "publisher": "信誼基金",
+        "synopsis": "以科學方法探討幼兒發展，提供家長實用的教養指南。",
+        "title": "幼兒發展心理學",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "劉建國",
+        "availableCopies": 2,
+        "categories": [
+          "財經",
+          "經濟學"
+        ],
+        "id": 44,
+        "isbn": "978-986-456-012-3",
+        "language": "繁體中文",
+        "pageCount": 380,
+        "publisher": "麥格羅希爾",
+        "synopsis": "深入淺出介紹經濟學原理，適合初學者理解經濟現象。",
+        "title": "經濟學原理",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "張明華",
+        "availableCopies": 5,
+        "categories": [
+          "科技",
+          "網路安全"
+        ],
+        "id": 45,
+        "isbn": "978-986-567-123-4",
+        "language": "繁體中文",
+        "pageCount": 450,
+        "publisher": "博碩文化",
+        "synopsis": "全面介紹網路安全威脅與防護策略，適合IT人員參考。",
+        "title": "網路安全實務",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "吳美玲",
+        "availableCopies": 3,
+        "categories": [
+          "健康",
+          "營養"
+        ],
+        "id": 46,
+        "isbn": "978-986-678-234-5",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "晨星出版",
+        "synopsis": "結合營養科學與實用食譜，打造健康的飲食生活。",
+        "title": "營養師的健康餐桌",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "許雅琪",
+        "availableCopies": 4,
+        "categories": [
+          "文學",
+          "短篇小說"
+        ],
+        "id": 47,
+        "isbn": "978-986-789-345-6",
+        "language": "繁體中文",
+        "pageCount": 300,
+        "publisher": "麥田出版",
+        "synopsis": "收錄當代作家的精選短篇，展現台灣文學的豐富面貌。",
+        "title": "台灣短篇小說選",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "林志強",
+        "availableCopies": 1,
+        "categories": [
+          "歷史",
+          "中國史"
+        ],
+        "id": 48,
+        "isbn": "978-986-890-456-7",
+        "language": "繁體中文",
+        "pageCount": 520,
+        "publisher": "三民書局",
+        "synopsis": "深度分析中國古代政治制度的發展與變遷。",
+        "title": "中國古代政治史",
+        "totalCopies": 2,
+        "year": 2022
+      },
+      {
+        "author": "蔡志明",
+        "availableCopies": 2,
+        "categories": [
+          "運動",
+          "健身"
+        ],
+        "id": 49,
+        "isbn": "978-986-901-567-8",
+        "language": "繁體中文",
+        "pageCount": 240,
+        "publisher": "如何出版",
+        "synopsis": "科學化的健身訓練方法，適合各種程度的健身愛好者。",
+        "title": "科學健身指南",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "楊佳慧",
+        "availableCopies": 3,
+        "categories": [
+          "心理",
+          "正向心理學"
+        ],
+        "id": 50,
+        "isbn": "978-986-012-678-9",
+        "language": "繁體中文",
+        "pageCount": 200,
+        "publisher": "天下生活",
+        "synopsis": "運用正向心理學原理，培養積極樂觀的人生態度。",
+        "title": "正向思考的力量",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "趙建宏",
+        "availableCopies": 5,
+        "categories": [
+          "科學",
+          "物理"
+        ],
+        "id": 51,
+        "isbn": "978-986-123-890-1",
+        "language": "繁體中文",
+        "pageCount": 400,
+        "publisher": "牛頓出版",
+        "synopsis": "用生動的例子解釋複雜的物理現象，適合科普愛好者。",
+        "title": "物理世界探索",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "馬雅玲",
+        "availableCopies": 2,
+        "categories": [
+          "旅遊",
+          "歐洲"
+        ],
+        "id": 52,
+        "isbn": "978-986-234-901-2",
+        "language": "繁體中文",
+        "pageCount": 350,
+        "publisher": "MOOK墨刻",
+        "synopsis": "深度介紹歐洲各國文化與景點，提供完整的旅遊攻略。",
+        "title": "歐洲文化之旅",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "李建華",
+        "availableCopies": 4,
+        "categories": [
+          "商業",
+          "品牌行銷"
+        ],
+        "id": 53,
+        "isbn": "978-986-345-012-3",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "商業周刊",
+        "synopsis": "分析成功品牌的行銷策略，提供實用的品牌建立方法。",
+        "title": "品牌行銷策略",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "王美華",
+        "availableCopies": 1,
+        "categories": [
+          "藝術",
+          "書法"
+        ],
+        "id": 54,
+        "isbn": "978-986-456-123-4",
+        "language": "繁體中文",
+        "pageCount": 180,
+        "publisher": "藝術家出版",
+        "synopsis": "從基本筆法到作品賞析，完整的書法學習指南。",
+        "title": "書法藝術入門",
+        "totalCopies": 2,
+        "year": 2023
+      },
+      {
+        "author": "陳志華",
+        "availableCopies": 3,
+        "categories": [
+          "科技",
+          "雲端運算"
+        ],
+        "id": 55,
+        "isbn": "978-986-567-234-5",
+        "language": "繁體中文",
+        "pageCount": 420,
+        "publisher": "碁峰資訊",
+        "synopsis": "深入介紹雲端運算技術與應用，適合IT專業人員。",
+        "title": "雲端運算實務",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "劉雅婷",
+        "availableCopies": 6,
+        "categories": [
+          "兒童",
+          "科普"
+        ],
+        "id": 56,
+        "isbn": "978-986-678-345-6",
+        "language": "繁體中文",
+        "pageCount": 120,
+        "publisher": "小天下",
+        "synopsis": "用有趣的實驗介紹科學原理，激發孩子對科學的興趣。",
+        "title": "趣味科學實驗",
+        "totalCopies": 6,
+        "year": 2023
+      },
+      {
+        "author": "黃志明",
+        "availableCopies": 2,
+        "categories": [
+          "健康",
+          "中醫"
+        ],
+        "id": 57,
+        "isbn": "978-986-789-456-7",
+        "language": "繁體中文",
+        "pageCount": 380,
+        "publisher": "知音出版",
+        "synopsis": "深入淺出介紹中醫理論與實務，適合對中醫有興趣的讀者。",
+        "title": "中醫理論與實務",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "張佳玲",
+        "availableCopies": 4,
+        "categories": [
+          "文學",
+          "武俠小說"
+        ],
+        "id": 58,
+        "isbn": "978-986-890-567-8",
+        "language": "繁體中文",
+        "pageCount": 480,
+        "publisher": "春天出版",
+        "synopsis": "經典武俠小說重新編輯，展現江湖兒女的俠義精神。",
+        "title": "俠客行",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "吳建華",
+        "availableCopies": 3,
+        "categories": [
+          "財經",
+          "保險"
+        ],
+        "id": 59,
+        "isbn": "978-986-901-678-9",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "寰宇出版",
+        "synopsis": "全面介紹保險商品與理賠實務，適合保險從業人員。",
+        "title": "保險實務大全",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "林美琪",
+        "availableCopies": 1,
+        "categories": [
+          "教育",
+          "特殊教育"
+        ],
+        "id": 60,
+        "isbn": "978-986-012-789-0",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "心理出版",
+        "synopsis": "探討特殊教育的理論與實務，提供教育工作者參考。",
+        "title": "特殊教育導論",
+        "totalCopies": 2,
+        "year": 2023
+      },
+      {
+        "author": "許建國",
+        "availableCopies": 5,
+        "categories": [
+          "科學",
+          "化學"
+        ],
+        "id": 61,
+        "isbn": "978-986-123-901-2",
+        "language": "繁體中文",
+        "pageCount": 360,
+        "publisher": "華杏出版",
+        "synopsis": "系統性介紹化學基礎知識，適合化學初學者。",
+        "title": "化學基礎教程",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "蔡雅芳",
+        "availableCopies": 2,
+        "categories": [
+          "料理",
+          "素食"
+        ],
+        "id": 62,
+        "isbn": "978-986-234-012-3",
+        "language": "繁體中文",
+        "pageCount": 250,
+        "publisher": "積木文化",
+        "synopsis": "創意素食料理食譜，讓素食也能美味又營養。",
+        "title": "創意素食料理",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "羅明華",
+        "availableCopies": 4,
+        "categories": [
+          "運動",
+          "游泳"
+        ],
+        "id": 63,
+        "isbn": "978-986-345-123-4",
+        "language": "繁體中文",
+        "pageCount": 200,
+        "publisher": "人類智庫",
+        "synopsis": "從基礎動作到競技技巧，完整的游泳學習指南。",
+        "title": "游泳技巧大全",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "何雅琪",
+        "availableCopies": 3,
+        "categories": [
+          "心理",
+          "情緒管理"
+        ],
+        "id": 64,
+        "isbn": "978-986-456-234-5",
+        "language": "繁體中文",
+        "pageCount": 220,
+        "publisher": "遠流出版",
+        "synopsis": "提供實用的情緒管理技巧，幫助讀者掌控情緒。",
+        "title": "情緒管理手冊",
+        "totalCopies": 5,
+        "year": 2023
+      },
+      {
+        "author": "楊志偉",
+        "availableCopies": 1,
+        "categories": [
+          "歷史",
+          "軍事史"
+        ],
+        "id": 65,
+        "isbn": "978-986-567-345-6",
+        "language": "繁體中文",
+        "pageCount": 500,
+        "publisher": "麥田出版",
+        "synopsis": "詳細記錄二戰太平洋戰場的重要戰役與影響。",
+        "title": "太平洋戰爭史",
+        "totalCopies": 2,
+        "year": 2022
+      },
+      {
+        "author": "石雅惠",
+        "availableCopies": 6,
+        "categories": [
+          "藝術",
+          "雕塑"
+        ],
+        "id": 66,
+        "isbn": "978-986-678-456-7",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "雄獅美術",
+        "synopsis": "介紹世界雕塑藝術的發展歷程與技法。",
+        "title": "雕塑藝術鑑賞",
+        "totalCopies": 6,
+        "year": 2023
+      },
+      {
+        "author": "陳美玲",
+        "availableCopies": 2,
+        "categories": [
+          "科技",
+          "物聯網"
+        ],
+        "id": 67,
+        "isbn": "978-986-789-567-8",
+        "language": "繁體中文",
+        "pageCount": 340,
+        "publisher": "博碩文化",
+        "synopsis": "全面介紹物聯網技術與應用案例，適合技術人員參考。",
+        "title": "物聯網應用實務",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "王志強",
+        "availableCopies": 4,
+        "categories": [
+          "商業",
+          "人力資源"
+        ],
+        "id": 68,
+        "isbn": "978-986-890-678-9",
+        "language": "繁體中文",
+        "pageCount": 300,
+        "publisher": "中國生產力",
+        "synopsis": "現代人力資源管理的理論與實務，適合HR專業人員。",
+        "title": "人力資源管理",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "劉佳慧",
+        "availableCopies": 3,
+        "categories": [
+          "健康",
+          "復健"
+        ],
+        "id": 69,
+        "isbn": "978-986-901-789-0",
+        "language": "繁體中文",
+        "pageCount": 260,
+        "publisher": "合記圖書",
+        "synopsis": "詳細介紹各種復健技術與方法，適合醫療從業人員。",
+        "title": "復健醫學實務",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "張雅華",
+        "availableCopies": 5,
+        "categories": [
+          "文學",
+          "科幻小說"
+        ],
+        "id": 70,
+        "isbn": "978-986-012-890-1",
+        "language": "繁體中文",
+        "pageCount": 420,
+        "publisher": "奇幻基地",
+        "synopsis": "充滿想像力的科幻故事，探討科技與人性的關係。",
+        "title": "未來世界",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "李志華",
+        "availableCopies": 1,
+        "categories": [
+          "教育",
+          "成人教育"
+        ],
+        "id": 71,
+        "isbn": "978-986-123-012-3",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "師大書苑",
+        "synopsis": "探討成人學習的特性與教學方法，適合教育工作者。",
+        "title": "成人教育理論",
+        "totalCopies": 2,
+        "year": 2023
+      },
+      {
+        "author": "黃美琪",
+        "availableCopies": 2,
+        "categories": [
+          "財經",
+          "會計"
+        ],
+        "id": 72,
+        "isbn": "978-986-234-123-4",
+        "language": "繁體中文",
+        "pageCount": 450,
+        "publisher": "雙葉書廊",
+        "synopsis": "系統性介紹會計學原理與實務，適合會計初學者。",
+        "title": "會計學原理",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "吳雅芳",
+        "availableCopies": 4,
+        "categories": [
+          "旅遊",
+          "東南亞"
+        ],
+        "id": 73,
+        "isbn": "978-986-345-234-5",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "墨刻出版",
+        "synopsis": "深度介紹東南亞各國文化與旅遊景點。",
+        "title": "東南亞文化探索",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "林建宏",
+        "availableCopies": 3,
+        "categories": [
+          "科學",
+          "數學"
+        ],
+        "id": 74,
+        "isbn": "978-986-456-345-6",
+        "language": "繁體中文",
+        "pageCount": 380,
+        "publisher": "華泰文化",
+        "synopsis": "從基礎到進階的數學概念，適合自學者參考。",
+        "title": "數學思維導論",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "鄭雅玲",
+        "availableCopies": 6,
+        "categories": [
+          "兒童",
+          "歷史故事"
+        ],
+        "id": 75,
+        "isbn": "978-986-567-456-7",
+        "language": "繁體中文",
+        "pageCount": 200,
+        "publisher": "小螢火蟲",
+        "synopsis": "用生動的故事介紹世界歷史，適合兒童閱讀。",
+        "title": "世界歷史故事",
+        "totalCopies": 6,
+        "year": 2023
+      },
+      {
+        "author": "許美華",
+        "availableCopies": 1,
+        "categories": [
+          "心理",
+          "發展心理學"
+        ],
+        "id": 76,
+        "isbn": "978-986-678-567-8",
+        "language": "繁體中文",
+        "pageCount": 400,
+        "publisher": "雙葉書廊",
+        "synopsis": "探討人類各階段的心理發展特徵與變化。",
+        "title": "發展心理學概論",
+        "totalCopies": 2,
+        "year": 2024
+      },
+      {
+        "author": "趙志明",
+        "availableCopies": 3,
+        "categories": [
+          "運動",
+          "籃球"
+        ],
+        "id": 77,
+        "isbn": "978-986-789-678-9",
+        "language": "繁體中文",
+        "pageCount": 240,
+        "publisher": "易博士",
+        "synopsis": "從基本技術到戰術運用，完整的籃球訓練指南。",
+        "title": "籃球技術教學",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "馬佳玲",
+        "availableCopies": 2,
+        "categories": [
+          "料理",
+          "異國料理"
+        ],
+        "id": 78,
+        "isbn": "978-986-890-789-0",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "幸福文化",
+        "synopsis": "收錄世界各國經典料理食譜，在家就能品嚐異國美食。",
+        "title": "世界料理大全",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "王雅琪",
+        "availableCopies": 4,
+        "categories": [
+          "藝術",
+          "音樂理論"
+        ],
+        "id": 79,
+        "isbn": "978-986-901-890-1",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "美樂出版",
+        "synopsis": "深入淺出介紹音樂理論基礎，適合音樂學習者。",
+        "title": "音樂理論基礎",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "陳志偉",
+        "availableCopies": 5,
+        "categories": [
+          "科技",
+          "大數據"
+        ],
+        "id": 80,
+        "isbn": "978-986-012-901-2",
+        "language": "繁體中文",
+        "pageCount": 480,
+        "publisher": "博碩文化",
+        "synopsis": "全面介紹大數據技術與分析方法，適合資料科學家。",
+        "title": "大數據分析實務",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "劉雅華",
+        "availableCopies": 1,
+        "categories": [
+          "健康",
+          "老人照護"
+        ],
+        "id": 81,
+        "isbn": "978-986-123-123-4",
+        "language": "繁體中文",
+        "pageCount": 300,
+        "publisher": "華杏出版",
+        "synopsis": "提供老人照護的專業知識與實務技巧。",
+        "title": "老人照護指南",
+        "totalCopies": 2,
+        "year": 2023
+      },
+      {
+        "author": "張建華",
+        "availableCopies": 3,
+        "categories": [
+          "商業",
+          "供應鏈"
+        ],
+        "id": 82,
+        "isbn": "978-986-234-234-5",
+        "language": "繁體中文",
+        "pageCount": 360,
+        "publisher": "華泰文化",
+        "synopsis": "深入分析供應鏈管理的理論與實務應用。",
+        "title": "供應鏈管理",
+        "totalCopies": 4,
+        "year": 2024
+      },
+      {
+        "author": "何美玲",
+        "availableCopies": 2,
+        "categories": [
+          "文學",
+          "推理小說"
+        ],
+        "id": 83,
+        "isbn": "978-986-345-345-6",
+        "language": "繁體中文",
+        "pageCount": 350,
+        "publisher": "皇冠出版",
+        "synopsis": "懸疑推理小說，情節曲折引人入勝。",
+        "title": "迷霧推理",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "楊志華",
+        "availableCopies": 4,
+        "categories": [
+          "教育",
+          "課程設計"
+        ],
+        "id": 84,
+        "isbn": "978-986-456-456-7",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "五南出版",
+        "synopsis": "探討有效的課程設計原理與方法。",
+        "title": "課程設計理論",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "蔡美琪",
+        "availableCopies": 6,
+        "categories": [
+          "兒童",
+          "自然科學"
+        ],
+        "id": 85,
+        "isbn": "978-986-567-567-8",
+        "language": "繁體中文",
+        "pageCount": 150,
+        "publisher": "小天下",
+        "synopsis": "用簡單易懂的方式介紹自然科學知識。",
+        "title": "兒童自然百科",
+        "totalCopies": 6,
+        "year": 2024
+      },
+      {
+        "author": "羅雅芳",
+        "availableCopies": 3,
+        "categories": [
+          "心理",
+          "認知心理學"
+        ],
+        "id": 86,
+        "isbn": "978-986-678-678-9",
+        "language": "繁體中文",
+        "pageCount": 420,
+        "publisher": "心理出版",
+        "synopsis": "深入探討人類認知過程與心理機制。",
+        "title": "認知心理學",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "李雅華",
+        "availableCopies": 1,
+        "categories": [
+          "財經",
+          "統計學"
+        ],
+        "id": 87,
+        "isbn": "978-986-789-789-0",
+        "language": "繁體中文",
+        "pageCount": 380,
+        "publisher": "華泰文化",
+        "synopsis": "商業統計學的理論與應用，適合商管學生。",
+        "title": "商業統計學",
+        "totalCopies": 2,
+        "year": 2024
+      },
+      {
+        "author": "黃志華",
+        "availableCopies": 2,
+        "categories": [
+          "科學",
+          "地理"
+        ],
+        "id": 88,
+        "isbn": "978-986-890-890-1",
+        "language": "繁體中文",
+        "pageCount": 320,
+        "publisher": "三民書局",
+        "synopsis": "系統性介紹地理學原理與應用。",
+        "title": "地理學概論",
+        "totalCopies": 3,
+        "year": 2023
+      },
+      {
+        "author": "王美芳",
+        "availableCopies": 5,
+        "categories": [
+          "旅遊",
+          "美洲"
+        ],
+        "id": 89,
+        "isbn": "978-986-901-901-2",
+        "language": "繁體中文",
+        "pageCount": 400,
+        "publisher": "太雅出版",
+        "synopsis": "詳細介紹美洲各國的旅遊景點與文化特色。",
+        "title": "美洲探索之旅",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "陳雅琪",
+        "availableCopies": 4,
+        "categories": [
+          "運動",
+          "羽球"
+        ],
+        "id": 90,
+        "isbn": "978-986-012-012-3",
+        "language": "繁體中文",
+        "pageCount": 220,
+        "publisher": "易博士",
+        "synopsis": "羽球技術與戰術的完整教學指南。",
+        "title": "羽球技術大全",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "許志明",
+        "availableCopies": 3,
+        "categories": [
+          "藝術",
+          "建築"
+        ],
+        "id": 91,
+        "isbn": "978-986-123-234-5",
+        "language": "繁體中文",
+        "pageCount": 480,
+        "publisher": "田園城市",
+        "synopsis": "探討世界建築藝術的發展史與設計理念。",
+        "title": "建築藝術史",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "林佳華",
+        "availableCopies": 1,
+        "categories": [
+          "料理",
+          "甜點"
+        ],
+        "id": 92,
+        "isbn": "978-986-234-345-6",
+        "language": "繁體中文",
+        "pageCount": 200,
+        "publisher": "橘子文化",
+        "synopsis": "精選法式甜點食譜，在家也能做出專業級甜點。",
+        "title": "法式甜點製作",
+        "totalCopies": 2,
+        "year": 2023
+      },
+      {
+        "author": "楊美玲",
+        "availableCopies": 2,
+        "categories": [
+          "健康",
+          "芳香療法"
+        ],
+        "id": 93,
+        "isbn": "978-986-345-456-7",
+        "language": "繁體中文",
+        "pageCount": 250,
+        "publisher": "晨星出版",
+        "synopsis": "介紹精油的功效與使用方法，打造健康生活。",
+        "title": "芳香療法指南",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "石志強",
+        "availableCopies": 6,
+        "categories": [
+          "科技",
+          "遊戲開發"
+        ],
+        "id": 94,
+        "isbn": "978-986-456-567-8",
+        "language": "繁體中文",
+        "pageCount": 420,
+        "publisher": "碁峰資訊",
+        "synopsis": "從概念到實作，完整的遊戲開發教學。",
+        "title": "遊戲開發實務",
+        "totalCopies": 6,
+        "year": 2024
+      },
+      {
+        "author": "趙雅華",
+        "availableCopies": 4,
+        "categories": [
+          "文學",
+          "歷史小說"
+        ],
+        "id": 95,
+        "isbn": "978-986-567-678-9",
+        "language": "繁體中文",
+        "pageCount": 520,
+        "publisher": "麥田出版",
+        "synopsis": "以歷史為背景的長篇小說，重現古代風華。",
+        "title": "古代風雲",
+        "totalCopies": 4,
+        "year": 2023
+      },
+      {
+        "author": "馬志華",
+        "availableCopies": 3,
+        "categories": [
+          "商業",
+          "專案管理"
+        ],
+        "id": 96,
+        "isbn": "978-986-678-789-0",
+        "language": "繁體中文",
+        "pageCount": 350,
+        "publisher": "中國生產力",
+        "synopsis": "現代專案管理的理論與實務，適合專案經理參考。",
+        "title": "專案管理實務",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "劉志偉",
+        "availableCopies": 1,
+        "categories": [
+          "教育",
+          "教學方法"
+        ],
+        "id": 97,
+        "isbn": "978-986-789-890-1",
+        "language": "繁體中文",
+        "pageCount": 300,
+        "publisher": "師大書苑",
+        "synopsis": "探討有效的教學策略與方法。",
+        "title": "有效教學策略",
+        "totalCopies": 2,
+        "year": 2023
+      },
+      {
+        "author": "蔡雅華",
+        "availableCopies": 2,
+        "categories": [
+          "心理",
+          "社會心理學"
+        ],
+        "id": 98,
+        "isbn": "978-986-890-901-2",
+        "language": "繁體中文",
+        "pageCount": 380,
+        "publisher": "雙葉書廊",
+        "synopsis": "探討個人與社會互動的心理機制。",
+        "title": "社會心理學概論",
+        "totalCopies": 3,
+        "year": 2024
+      },
+      {
+        "author": "何建華",
+        "availableCopies": 5,
+        "categories": [
+          "科學",
+          "環境科學"
+        ],
+        "id": 99,
+        "isbn": "978-986-901-012-3",
+        "language": "繁體中文",
+        "pageCount": 400,
+        "publisher": "五南出版",
+        "synopsis": "深入探討環境問題與解決方案。",
+        "title": "環境科學導論",
+        "totalCopies": 5,
+        "year": 2024
+      },
+      {
+        "author": "張美華",
+        "availableCopies": 3,
+        "categories": [
+          "藝術",
+          "舞蹈"
+        ],
+        "id": 100,
+        "isbn": "978-986-012-123-4",
+        "language": "繁體中文",
+        "pageCount": 280,
+        "publisher": "幼獅文化",
+        "synopsis": "介紹各種舞蹈風格與技巧，適合舞蹈愛好者。",
+        "title": "舞蹈藝術欣賞",
+        "totalCopies": 4,
+        "year": 2023
+      }
+    ]
