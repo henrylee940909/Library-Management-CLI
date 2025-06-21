@@ -6,15 +6,15 @@ A fully featured **C++17** console library‑management system, developed for NY
 
 ## Features
 
-| Category                        | Key Features                                                                                                                                                         |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Account & Security**          | • Multi‑role login (Admin / Staff / Reader)• Salted SHA‑256 password hashing• First‑run admin setup & password change                                                |
-| **Book Management**             | • Add / edit / delete books with full field validation (ISBN, language, pages, multi‑category)• Pagination (20 items / page) & sorting by title, author, year, pages |
-| **Advanced Search**             | • Boolean query parser (AND / OR / NOT, parentheses)• Inverted index for fast multi‑field lookup                                                                     |
-| **Loan Workflow**               | • Borrow / return with user, due date, copy tracking• Automatic overdue detection & fine calculation                                                                 |
-| **Statistics & Recommendation** | • ASCII bar / pie / line charts (top books, active users, category ratio, monthly trends)• Hybrid recommendation: collaborative filtering + content similarity       |
-| **User Experience**             | • Colourised ANSI console UI (titles, menus, progress bars, alerts)• Robust error handling & sensible defaults                                                       |
-| **Persistence**                 | • All data stored in JSON (`books.json`, `users.json`, `loans.json`)• Auto‑save / load on exit & launch                                                              |
+| Category                        | Key Features                                                                                                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Account & Security**          | • Multi‑role login (Admin / Staff / Reader)<br>• Salted SHA‑256 password hashing<br>• First‑run admin setup & password change                                            |
+| **Book Management**             | • Add / edit / delete books with full field validation (ISBN, language, pages, multi‑category)<br>• Pagination (20 items / page) & sorting by title, author, year, pages |
+| **Advanced Search**             | • Boolean query parser (AND / OR / NOT, parentheses)<br>• Inverted index for fast multi‑field lookup                                                                     |
+| **Loan Workflow**               | • Borrow / return with user, due date, copy tracking<br>• Automatic overdue detection & fine calculation                                                                 |
+| **Statistics & Recommendation** | • ASCII bar / pie / line charts (top books, active users, category ratio, monthly trends)<br>• Hybrid recommendation: collaborative filtering + content similarity       |
+| **User Experience**             | • Colourised ANSI console UI (titles, menus, progress bars, alerts)<br>• Robust error handling & sensible defaults                                                       |
+| **Persistence**                 | • All data stored in JSON (`books.json`, `users.json`, `loans.json`)<br>• Auto‑save / load on exit & launch                                                              |
 
 ---
 
