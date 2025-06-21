@@ -42,7 +42,7 @@ Library-Management-CLI/
 ├── src/                 # Source files (.cpp)
 ├── data/                # Sample JSON datasets
 ├── docs/                # Project report (PDF)
-│   └── HW2_Report.pdf
+│   └── report.pdf
 ├── Makefile             # Build script
 └── README.md            # Project overview and usage
 ```
@@ -51,7 +51,7 @@ Library-Management-CLI/
 
 ## Report
 
-* [HW2 Project Report (PDF)](docs/HW2_Report.pdf)
+* [HW2 Project Report (PDF)](docs/report.pdf)
 
 ---
 
