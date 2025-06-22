@@ -28,10 +28,6 @@ A fully featured **C++17** console library‑management system, developed for NY
 ## Build & Run
 
 ```bash
-# Clone the repository
-git clone <repository-url>
-cd DS-HW2
-
 # Create necessary directories (automatically created by Makefile)
 mkdir -p obj bin data
 
