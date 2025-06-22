@@ -28,13 +28,21 @@ A fully featured **C++17** console library‑management system, developed for NY
 ## Build & Run
 
 ```bash
-# Linux / macOS / WSL
-make               # uses provided Makefile
-./library_manager  # run executable
+# Clone the repository
+git clone <repository-url>
+cd DS-HW2
 
-# Windows (MinGW‑w64)
-mingw32-make
-library_manager.exe
+# Create necessary directories (automatically created by Makefile)
+mkdir -p obj bin data
+
+# Build the project
+make
+
+# Run the program
+make run
+
+# Clean build artifacts
+make clean
 ```
 
 > First launch creates an **Admin** account if `data/users.json` is empty.
